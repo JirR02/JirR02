@@ -5,11 +5,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JirR02)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-- 🔭 I’m currently working on [Moving Solar Panel](https://github.com/JirR02/Physic_IA_Moving_Solar_Panel)
+- 🔭 I’m currently working on [NeoVim Config](https://github.com/JirR02/neovim_setup)
 
 - 🌱 I’m currently learning **Lua for Neovim**
 
