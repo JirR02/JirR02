@@ -15,9 +15,15 @@
 
 - 🌱 I’m currently learning **Lua for Neovim**
 
+- 👯 I’m looking to collaborate on [pandora](https://github.com/pandora-analysis/pandora)
+
+- 🤝 I’m looking for help with [pandora (translating webinterface)](https://github.com/pandora-analysis/pandora)
+
 - 💬 Ask me about **Arch Linux, LaTex, NeoVim, Python, RaspberryPi, XMonad & XMobar**
 
 - 📫 How to reach me **jaye.ruh@gmail.com**
+
+- ⚡ Fun fact **I like cats 🐈**
 
 ---
 
