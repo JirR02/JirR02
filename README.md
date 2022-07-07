@@ -42,4 +42,4 @@
 
 <h3 align="left">Proud Contributor of:</h3>
 
-= [pandora](https://github.com/pandora-analysis/pandora)
+- [pandora](https://github.com/pandora-analysis/pandora)
