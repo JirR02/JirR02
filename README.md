@@ -41,5 +41,6 @@
 - [techlabksbg](https://github.com/techlabksbg)
 
 <h3 align="left">Proud Contributor of:</h3>
+<p align="left"> <a href="https://pandora.circl.lu/submit" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/527964358bf4312335dabb0e6fb3c14552783482ab57aca211adb837569dc7ea/68747470733a2f2f70616e646f72612e636972636c2e6c752f7374617469632f696d616765732f6c6f676f2e737667" alt="pandora" width="40" height="40"/> </a> </p>
 
 - [pandora](https://github.com/pandora-analysis/pandora)
