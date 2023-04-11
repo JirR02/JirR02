@@ -3,14 +3,6 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JirR02)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 - 🔭 I’m currently working on [NeoVim Config](https://github.com/JirR02/neovim_setup)
 
 - 🌱 I’m currently learning **Lua for Neovim**
