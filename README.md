@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on [NeoVim Config](https://github.com/JirR02/neovim_setup)
+- 🔭 I’m currently working on [macos_homebrew_packages](https://gitlab.com/JirR02/macos_homebrew_packages)
 
-- 🌱 I’m currently learning **Lua for Neovim**
+- 🌱 I’m currently learning **HomeBrew**
 
 - 👯 I’m looking to collaborate on [pandora](https://github.com/pandora-analysis/pandora)
 
