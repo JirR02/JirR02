@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on [macos_homebrew_packages](https://gitlab.com/JirR02/macos_homebrew_packages)
+- 🔭 I’m currently working on [macos_setup](https://gitlab.com/JirR02/macos_setup)
 
 - 🌱 I’m currently learning **HomeBrew**
 
