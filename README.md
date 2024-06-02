@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [macos_setup](https://gitlab.com/JirR02/macos_setup)
 
-- 🌱 I’m currently learning **HomeBrew**
+- 🌱 I’m currently learning **Python Object-Oriented Programming**
 
 - 👯 I’m looking to collaborate on [pandora](https://github.com/pandora-analysis/pandora)
 
 - 🤝 I’m looking for help with [pandora (translating webinterface)](https://github.com/pandora-analysis/pandora)
 
-- 💬 Ask me about **Arch Linux, LaTex, NeoVim, Python, RaspberryPi, XMonad & XMobar**
+- 💬 Ask me about **Arch Linux, LaTex, NeoVim, Python, RaspberryPi, MacOS**
 
 - 📫 How to reach me **jaye.ruh@gmail.com**
 
