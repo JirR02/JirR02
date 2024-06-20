@@ -3,15 +3,15 @@
 
 ---
 
-- 🔭 I’m currently working on [macos_setup](https://gitlab.com/JirR02/macos_setup)
+- 🔭 I’m currently working on [pandora](https://github.com/JirR02/pandora)
 
 - 🌱 I’m currently learning **Python Object-Oriented Programming**
 
-- 👯 I’m looking to collaborate on [pandora](https://github.com/pandora-analysis/pandora)
+- 👯 I’m looking to collaborate on [gitcola](https://github.com/git-cola/git-cola)
 
 - 🤝 I’m looking for help with [pandora (translating webinterface)](https://github.com/pandora-analysis/pandora)
 
-- 💬 Ask me about **Arch Linux, LaTex, NeoVim, Python, RaspberryPi, MacOS**
+- 💬 Ask me about **Arch Linux, LaTex, NeoVim, Python, SBCs, MacOS**
 
 - 📫 How to reach me **jaye.ruh@gmail.com**
 
@@ -33,6 +33,6 @@
 - [techlabksbg](https://github.com/techlabksbg)
 
 <h3 align="left">Proud Contributor of:</h3>
-<p align="left"> <a href="https://pandora.circl.lu/submit" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/527964358bf4312335dabb0e6fb3c14552783482ab57aca211adb837569dc7ea/68747470733a2f2f70616e646f72612e636972636c2e6c752f7374617469632f696d616765732f6c6f676f2e737667" alt="pandora" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://pandora.circl.lu/submit" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/91121193?s=48&v=4" alt="pandora" width="40" height="40"/> </a> </p>
 
 - [pandora](https://github.com/pandora-analysis/pandora)
